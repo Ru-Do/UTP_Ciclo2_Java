@@ -1,0 +1,14 @@
+# Inicializar Archivos.
+git init
+
+# cargar los Archivos.
+git add .
+
+# Crear el primer comit del proyecto
+git commit -m 'inicio proyecto'
+
+# Carga del remote
+copiar del repositorio
+
+# Carga a git
+git push -u origin master
